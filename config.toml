@@ -1,0 +1,8 @@
+baseURL = 'https://tammy.homes/'
+languageCode = 'en-us'
+theme = 'coming-soon'
+
+[params]
+	title = 'Tammy Johnson'
+	message = 'COMING SOON!'
+	release = 'Sep 1, 2024'
